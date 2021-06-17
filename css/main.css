@@ -1,3 +1,7 @@
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
 .menu-btn {
   position: absolute;
   z-index: 3;
@@ -231,7 +235,7 @@ header {
 }
 
 main {
-  padding: 4rem;
+  padding: 2rem;
   min-height: calc(100vh - 60px);
 }
 
