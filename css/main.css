@@ -437,3 +437,7 @@ main#home h1 {
     grid-template-columns: 1fr;
   }
 }
+
+.item img{
+  height: 63%;
+}
