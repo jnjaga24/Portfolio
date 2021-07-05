@@ -441,3 +441,7 @@ main#home h1 {
 .item img{
   height: 63%;
 }
+
+.item{
+  height : 80%;
+}
